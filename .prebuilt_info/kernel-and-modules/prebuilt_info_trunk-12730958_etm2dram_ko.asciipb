@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12730958"
+    target: "tangorpro"
+    source_file: "etm2dram.ko"
+  }
+  dest_file: "trunk-12730958/etm2dram.ko"
+  version: "12730958"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/tangorpro-kernels/6.1"
+}
