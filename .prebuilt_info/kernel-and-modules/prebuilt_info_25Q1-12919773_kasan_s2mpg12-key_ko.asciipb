@@ -1,0 +1,11 @@
+drops {
+  android_build_drop {
+    build_id: "12919773"
+    target: "tangorpro_kasan"
+    source_file: "s2mpg12-key.ko"
+  }
+  dest_file: "25Q1-12919773/kasan/s2mpg12-key.ko"
+  version: "12919773"
+  version_group: "kernel-and-modules"
+  git_project: "device/google/tangorpro-kernels/6.1"
+}
